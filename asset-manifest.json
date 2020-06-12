@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactHooksCRUD/static/css/main.1d62a77d.chunk.css",
+    "main.css": "/ReactHooksCRUD/static/css/main.11660063.chunk.css",
     "main.js": "/ReactHooksCRUD/static/js/main.15d7e260.chunk.js",
     "main.js.map": "/ReactHooksCRUD/static/js/main.15d7e260.chunk.js.map",
     "runtime-main.js": "/ReactHooksCRUD/static/js/runtime-main.831ab9fc.js",
@@ -8,15 +8,15 @@
     "static/js/2.e774beb4.chunk.js": "/ReactHooksCRUD/static/js/2.e774beb4.chunk.js",
     "static/js/2.e774beb4.chunk.js.map": "/ReactHooksCRUD/static/js/2.e774beb4.chunk.js.map",
     "index.html": "/ReactHooksCRUD/index.html",
-    "precache-manifest.5531a77b16624cb5232749fee0301647.js": "/ReactHooksCRUD/precache-manifest.5531a77b16624cb5232749fee0301647.js",
+    "precache-manifest.337f43019971688df2b5ac0660d2f2dd.js": "/ReactHooksCRUD/precache-manifest.337f43019971688df2b5ac0660d2f2dd.js",
     "service-worker.js": "/ReactHooksCRUD/service-worker.js",
-    "static/css/main.1d62a77d.chunk.css.map": "/ReactHooksCRUD/static/css/main.1d62a77d.chunk.css.map",
+    "static/css/main.11660063.chunk.css.map": "/ReactHooksCRUD/static/css/main.11660063.chunk.css.map",
     "static/js/2.e774beb4.chunk.js.LICENSE.txt": "/ReactHooksCRUD/static/js/2.e774beb4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.831ab9fc.js",
     "static/js/2.e774beb4.chunk.js",
-    "static/css/main.1d62a77d.chunk.css",
+    "static/css/main.11660063.chunk.css",
     "static/js/main.15d7e260.chunk.js"
   ]
 }
