@@ -45,7 +45,7 @@ const App = () => {
 	return (
 		<div className="container">
 			<img src="avataaars.png" alt="logo" height="280" width="264" className="logo"/>
-			<h1>CRUD App with Hooks</h1>
+			<h1>React Hooks CRUD</h1>
 			<div>
 				<div className="userEdit">
 					{editing ? (
